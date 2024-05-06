@@ -1,0 +1,1 @@
+# toshikazu-takauchi-hitachi.github.io
