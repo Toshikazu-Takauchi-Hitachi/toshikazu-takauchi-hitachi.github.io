@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ 
+          "ABCDEFGHIJ.com.example.MockApp"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Any comments"
+          }
+        ]
+      }
+    ]
+  }
+}
